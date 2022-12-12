@@ -1,0 +1,8 @@
+0.01
+perl(Alien::Build::Plugin)
+perl(Importer)
+perl(Path::Tiny)
+perl(Sub::Info)
+perl(Test2::V0)
+perl(URI)
+perl(URI::Escape)
