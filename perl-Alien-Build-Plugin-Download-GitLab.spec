@@ -4,7 +4,7 @@
 #
 Name     : perl-Alien-Build-Plugin-Download-GitLab
 Version  : 0.01
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Build-Plugin-Download-GitLab-0.01.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Build-Plugin-Download-GitLab-0.01.tar.gz
 Summary  : 'Alien::Build plugin to download from GitLab'
