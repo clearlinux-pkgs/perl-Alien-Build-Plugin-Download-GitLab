@@ -1,5 +1,6 @@
 0.01
 perl(Alien::Build::Plugin)
+perl(Getopt::Long)
 perl(Importer)
 perl(Path::Tiny)
 perl(Sub::Info)
